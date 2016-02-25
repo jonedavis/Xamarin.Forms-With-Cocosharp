@@ -7,8 +7,9 @@ This solution contains an iOS and Android project which combines CocosSharp with
 
 This demo is built against CocosSharp 1.7.1.
 
-## Demo
-![screenshot](https://github.com/jonedavis/Xamarin.Forms-With-Cocosharp/FormsWithCocosSharp/Screenshots/TheseCrazyWallsInForms.gif "TheseCrazyWallsInForms")
+## Screenshots
+![screenshot](https://github.com/jonedavis/Xamarin.Forms-With-Cocosharp/blob/master/Screenshots/Arch-Diagram.png "Diagram")
+![screenshot](https://github.com/jonedavis/Xamarin.Forms-With-Cocosharp/blob/master/Screenshots/TheseCrazyWallsInForms.gif "TheseCrazyWallsInForms")
 
 
 Author
